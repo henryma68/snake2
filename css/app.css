@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0.5rem;
+}
+#canvasDiv {
+    position: fixed;
+    width: 320px;
+    height: 520px;
+}
+
+#canvas {
+    display: block;
+    position: fixed;
+   <!-- border: solid "#123456";-->
+    border: 1px solid #000;
+		margin: auto;
+}
+
+
+body {
+  font-size: 1rem;
+  background: #fff;
+}
+
+h1 {
+  margin: 0 0 1rem 0;
+}
+
+p {
+  font-size: inherit;
+}
+
+
